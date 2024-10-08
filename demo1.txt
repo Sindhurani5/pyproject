@@ -1,2 +1,4 @@
 this is my first line of a code
-now i am in gitbash app
+now i am in gitbash
+today is tuesday
+
